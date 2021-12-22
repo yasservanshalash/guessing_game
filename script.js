@@ -44,5 +44,3 @@ check.addEventListener("click", function () {
     }
   }
 });
-
-again.addEventListener("click", function () {});
